@@ -1,0 +1,59 @@
+{
+  "uid" : "698b696563c94fb7",
+  "name" : "TC_0001_Search()",
+  "fullName" : "Amazon_ui.UiTests.TC_0001_Search",
+  "historyId" : "618c999348beee2f316b65aeb9b299d4",
+  "time" : {
+    "start" : 1608119426810,
+    "stop" : 1608119465010,
+    "duration" : 38200
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "host",
+    "value" : "Kolia"
+  }, {
+    "name" : "thread",
+    "value" : "16073@Kolia.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "Amazon_ui.UiTests"
+  }, {
+    "name" : "testClass",
+    "value" : "Amazon_ui.UiTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_0001_Search"
+  }, {
+    "name" : "suite",
+    "value" : "Amazon_ui.UiTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "regression" ]
+  },
+  "source" : "698b696563c94fb7.json",
+  "parameterValues" : [ ]
+}

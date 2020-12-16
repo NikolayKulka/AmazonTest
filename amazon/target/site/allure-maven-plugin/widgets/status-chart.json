@@ -1,0 +1,11 @@
+[ {
+  "uid" : "698b696563c94fb7",
+  "name" : "TC_0001_Search()",
+  "time" : {
+    "start" : 1608119426810,
+    "stop" : 1608119465010,
+    "duration" : 38200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

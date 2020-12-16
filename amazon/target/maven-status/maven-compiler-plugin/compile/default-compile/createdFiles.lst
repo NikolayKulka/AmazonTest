@@ -1,0 +1,4 @@
+Core/Amazon_config/amazon_ConfigPage/BaseConfig.class
+Amazon/StartDriver.class
+Amazon/Base/ui_BasePage.class
+Core/Amazon_config/amazon_config/ConfigProperties.class

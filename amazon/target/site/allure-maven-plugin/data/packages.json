@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Amazon_ui.UiTests",
+    "children" : [ {
+      "name" : "TC_0001_Search",
+      "uid" : "698b696563c94fb7",
+      "parentUid" : "922e0c5abd5045e9ce4a50262996c045",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608119426810,
+        "stop" : 1608119465010,
+        "duration" : 38200
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Amazon_ui.UiTests"
+  } ]
+}
