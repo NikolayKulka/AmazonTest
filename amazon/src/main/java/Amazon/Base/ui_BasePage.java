@@ -16,7 +16,7 @@ public class ui_BasePage {
   public static final String chooseFirstResult = "//div[@data-component-type= 's-search-result'][1]";
   public static final String selectQuantity = "//select[@name = 'quantity']";
   public static final String Quantity = "//span[@id= 'sc-subtotal-label-activecart']";
-  public static final String Price = "//span[@id= 'priceblock_ourprice']";
+  public static final String Price = " //span[@id= 'priceblock_ourprice']|//span[@id= 'priceblock_saleprice']";
   public static final String totalPrice = "//span[@id= 'sc-subtotal-amount-buybox']/span";
   public static final String addToCart = "//input[@id= 'add-to-cart-button']";
   public static final String Cart = "//a[@id= 'nav-cart']";
