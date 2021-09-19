@@ -23,7 +23,7 @@ public class DriverProvider {
     }
 
     private static void setupRemoteConfiguration() {
-        Configuration.browser = ("helpers.SelenoidDriverProvider");
+        /*Configuration.browser = ("helpers.SelenoidDriverProvider");*/
         setupBaseConfiguration();
     }
 
